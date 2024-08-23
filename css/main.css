@@ -1,17 +1,6 @@
 body {
   font: 300 14px/1.2 'Public Sans', sans-serif;
 }
-
 .container-fluid {
   max-width: 1024px;
-}
-
-button {
-  width: 81%;
-  padding: 10px;
-  border-radius: 10px;
-  margin-top: 20px;
-  margin-left: 115px;
-  border: 1px solid black;
-  
 }
